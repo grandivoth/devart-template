@@ -1,7 +1,8 @@
 {
     "technologies": {
         "apis": [
-            "github"
+            "github",
+            "g+"
         ],
         "platforms": [
             "osx",
