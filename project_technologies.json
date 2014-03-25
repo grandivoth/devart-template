@@ -4,17 +4,17 @@
             "insert apis"
         ],
         "platforms": [
-            "osx"
-            "Windows"
-            "Android"
+            "osx",
+            "Windows",
+            "Android",
             "arduino"
         ],
         "toolkits": [
-            "OpenCV"
+            "OpenCV",
             "MathLab"
         ]
     },
     "themes": [
-        "image processing"
+        "Installation art"
     ]
 }
