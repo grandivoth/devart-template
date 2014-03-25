@@ -1,7 +1,9 @@
 {
     "technologies": {
         "apis": [
-            "github"
+            "github",
+            "youtube",
+            "translate"
         ],
         "platforms": [
             "osx",
