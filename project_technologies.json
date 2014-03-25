@@ -1,12 +1,12 @@
 {
     "technologies": {
         "apis": [
-            "insert apis"
+            "github"
         ],
         "platforms": [
             "osx",
-            "Windows",
-            "Android",
+            "windows",
+            "android",
             "arduino"
         ],
         "toolkits": [
