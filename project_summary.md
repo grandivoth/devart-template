@@ -26,7 +26,8 @@ Function
 We use all information to present the installation art, which relate with Life such as emotion and time.
 
 ## Link to Prototype
-//dropbox
+[Example Link](https://www.youtube.com/watch?v=FehBLNHMlfo "Example Link")
+
 
 ## Example Code
 NOTE: Wrap your code blocks or any code citation by using ``` like the example below.
@@ -75,7 +76,7 @@ int main()
 ## Images & Videos
 Experiment
 -Light 
-![Experiment light :##test1](/project_images/test1_1.jpg "Experiment light -##test1"),
+![Experiment light :##test1](/project_images/test1-1.jpg "Experiment light -##test1"),
 
 ![Experiment light :##test2](/project_images/test2-2.jpg "Experiment light -##test2"),
 
