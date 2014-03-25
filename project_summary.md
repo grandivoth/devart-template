@@ -26,7 +26,7 @@ Function
 We use all information to present the installation art, which relate with Life such as emotion and time.
 
 ## Link to Prototype
-(https://www.youtube.com/watch?v=FehBLNHMlfo
+https://www.youtube.com/watch?v=FehBLNHMlfo
 
 
 ## Example Code
@@ -69,13 +69,11 @@ int main()
 }
 ```
 ## Links to External Libraries
- NOTE: You can also use this space to link to external libraries or Github repositories you used on your project.
-
-[Example Link](http://www.google.com "Example Link")
+http://www.google.com
 
 ## Images & Videos
-Experiment
--Light 
+Experiment-Light 
+
 ![Experiment light :##test1](/project_images/test1-1.jpg "Experiment light -##test1"),
 
 ![Experiment light :##test2](/project_images/test2-2.jpg "Experiment light -##test2"),
