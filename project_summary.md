@@ -31,8 +31,40 @@ We use all information to present the installation art, which relate with Life s
 ## Example Code
 NOTE: Wrap your code blocks or any code citation by using ``` like the example below.
 ```
-function test() {
-  console.log("Printing a test");
+#include <opencv2/opencv.hpp>
+#include <opencv2/highgui/highgui.hpp>
+#include <iostream>
+
+using namespace cv;
+using namespace std;
+int main()
+{
+    double alpha ; double temp;
+    double npic=100;
+    Mat src[150];
+    /// Read image ( same size, same type )
+    src[1] = imread("/Users/sharnonsharnon/Documents/opencv-2.4.8/xcodefuse/testproject2/testproject2/p31.jpg",1);
+    ...[_] = ...
+    
+    alpha = 1/(npic);
+    temp=alpha;
+    for(int i=1;i<=npic;i++)
+        if( !src[i].data ) { printf("Error loading src %d \n",i); return -1; }
+    
+    /// Create Windows
+    cvNamedWindow("Linear Blend", 1);
+	   alpha = 1/(npic);
+    temp = alpha;
+        for(int j=1;j<=npic-1;j++)
+        {
+            addWeighted( src[j], alpha, src[j+1], temp , 0.0, src[j+1]);
+            alpha = 1;
+            
+            imshow( "Linear Blend", src[j+1] );
+        }
+    waitKey(0);
+    cvDestroyWindow("Linear Blend");
+    return 0;
 }
 ```
 ## Links to External Libraries
@@ -43,5 +75,6 @@ function test() {
 ## Images & Videos
 Experiment
 -Light 
-http://upload.siamza.com/file_upload/modify/250314/1207753.jpg
+
+
 updating...
