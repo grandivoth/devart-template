@@ -19,7 +19,7 @@
 
 ##Overview
 
-![Experiment light :##test1](/project_posts/devart-template / project_posts / 10004018_10152295985161605_1255508204_n.jpg "Experiment light -##test1")
+![Overview](/project_posts/10004018_10152295985161605_1255508204_n.jpg "Overview")
 
 
 ##Software
