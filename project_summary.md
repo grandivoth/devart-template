@@ -26,7 +26,7 @@ Function
 We use all information to present the installation art, which relate with Life such as emotion and time.
 
 ## Link to Prototype
-[Example Link](https://www.youtube.com/watch?v=FehBLNHMlfo "Example Link")
+(https://www.youtube.com/watch?v=FehBLNHMlfo
 
 
 ## Example Code
