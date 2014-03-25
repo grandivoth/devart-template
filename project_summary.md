@@ -14,10 +14,14 @@ Sound:
 
 Function
 -LED: a change in the light of the Sun.
+
 -Smoke: Instead of moving clouds.
+
 -Water: Water can make the overlapping images, but it still value of the clarity. 
--Music: the story of the inroads of time.
+
+-Music: the story of the inroads of time./n
 -Smell: a mood to people's feelings.
+
 
 We use all information to present the installation art, which relate with Life such as emotion and time.
 
