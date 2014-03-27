@@ -29,6 +29,8 @@ We use all information to present the installation art, which relate with Life s
 ## Link to Prototype
 https://www.youtube.com/watch?v=rn7UTz9lUaU
 
+Credit paktaifarang
+
 
 ## Example Code
 Code : overlap of image (Alpha value of each = 1 / n)
@@ -95,7 +97,5 @@ Test6
 
 **You can see all picture in my gitgub : /project_images/Experiment/Light/test1-test6)
 
-
-updating...
 
 
