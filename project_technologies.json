@@ -13,7 +13,6 @@
         ],
         "toolkits": [
             "OpenCV",
-            "MathLab"
             "c++"
         ]
     },
