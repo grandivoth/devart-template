@@ -27,7 +27,7 @@ Function
 We use all information to present the installation art, which relate with Life such as emotion and time.
 
 ## Link to Prototype
-https://www.youtube.com/watch?v=FehBLNHMlfo
+https://www.youtube.com/watch?v=rn7UTz9lUaU
 
 
 ## Example Code
@@ -75,39 +75,25 @@ http://www.google.com
 ## Images & Videos
 Experiment-Light 
 
+Test1
 ![Experiment light :##test1](/project_images/test1-1.jpg "Experiment light -##test1"),
 
+Test2
 ![Experiment light :##test2](/project_images/test2-2.jpg "Experiment light -##test2"),
 
+Test3
 ![Experiment light :##test3](/project_images/test3-3.jpg "Experiment light -##test3"),
 
+Test4
 ![Experiment light :##test4](/project_images/test4-4.jpg "Experiment light -##test4"),
 
+Test5
 ![Experiment light :##test5](/project_images/test5-5.jpg "Experiment light -##test5"),
 
+Test6
 ![Experiment light :##test6](/project_images/test6-6.jpg "Experiment light -##test6")
 
-
-##Software/Hardware
--Software
-
-1.Input emotion
-
-2.Open sound in folder which follow to emotion
-
-3.Send information to hardware.
-
--Hardware
-
-1.Recieve information and tranformation to potocol
-
-2.LED controller (adrdunio)
-
-3.Smook controller
-
-
-##Overview
-![Overview](/project_posts/10004018_10152295985161605_1255508204_n.jpg "Overview"),
+**You can see all picture in my gitgub : /project_images/Experiment/Light/test1-test6)
 
 
 updating...
