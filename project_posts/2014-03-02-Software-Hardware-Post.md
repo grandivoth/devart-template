@@ -31,7 +31,4 @@
 -Light with LED
 https://www.youtube.com/watch?v=FehBLNHMlfo
 
-
-
-![animated](/project_images/projectDEV-art.gif "animated")
-updating..
+credit Kevin Darrah
