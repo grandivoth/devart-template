@@ -4,15 +4,16 @@
 
 2.Open sound in folder which follow to emotion
 
-3.Send information to hardware.
+
 
 -Hardware
 
-1.Recieve information and tranformation to potocol
 
-2.LED controller (adrdunio)
+1.LED controller (base to sound)
 
-3.Smoker controller
+2.diffuser+aroma controller
+
+3.water fall comtroller( on /off)
 
 
 ##Overview
@@ -21,6 +22,8 @@
 
 
 ##Software
+
+-Light+Sound
 
  Getting the mood I interpret the selected folder or send the array. The folder is  will be checked again  with condition. If it runs across the music of the song, the midi data is sent out to retrieve the code to play sound and light.
 
@@ -75,6 +78,8 @@ int main()
 
 
 ##Hardware
+
+-Light+Sound
 
 -Raspberry Pi to controll LED
 https://www.youtube.com/watch?v=Q6U2Bi5NK6Q#t=19
