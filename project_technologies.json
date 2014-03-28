@@ -13,7 +13,8 @@
         ],
         "toolkits": [
             "OpenCV",
-            "c++"
+            "c++",
+            "c"
         ]
     },
     "themes": [
