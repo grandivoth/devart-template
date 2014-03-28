@@ -1,3 +1,3 @@
-##Principles of this installation art
+##Principles of this installation rt
 
 ![Animation](/project_images/projectDEV-art.gif "Animation")
