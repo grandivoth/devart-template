@@ -1,3 +1,15 @@
+
+##Overview
+
+![Overview](/ "Overview")
+//coming..
+
+
+##Operation
+
+![Overview](/project_images/2014-03-28 13.41.31.jpg "Overview")
+
+
 -Software
 
 1.Input emotion
@@ -15,10 +27,6 @@
 
 3.water fall comtroller( on /off)
 
-
-##Overview
-
-![Overview](/project_posts/10004018_10152295985161605_1255508204_n.jpg "Overview")
 
 
 ##Software
