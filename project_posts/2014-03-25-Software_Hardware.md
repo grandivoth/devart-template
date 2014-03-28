@@ -1,3 +1,4 @@
+
 -Software
 
 1.Input emotion
@@ -15,10 +16,6 @@
 
 3.water fall comtroller( on /off)
 
-
-##Overview
-
-![Overview](/project_posts/10004018_10152295985161605_1255508204_n.jpg "Overview")
 
 
 ##Software
@@ -84,4 +81,4 @@ int main()
 -Raspberry Pi to controll LED
 https://www.youtube.com/watch?v=Q6U2Bi5NK6Q#t=19
 
-credit Kevin Darrah
+Credit Kevin Darrah

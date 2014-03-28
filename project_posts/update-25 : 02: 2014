@@ -1,9 +1,0 @@
-How it work
--Software
-
-Input emotion >>App-andoid will choose sound in folder which follow to emotion
-...Send information to hardware.
-
--Hardware
-
-Recieve information and tranformation to potocol for controll LED and smoke.

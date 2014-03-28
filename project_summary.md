@@ -1,9 +1,10 @@
-# Project Title
-Life by time
+# Life by time
+
 
 ## Authors
 - Terus, Limsurut, few2012few
 - Pornpawit Trikumpun ,zinzoz
+
 
 ## Description
 We started from the brainstorm to find a topic of interesting with this work then we choose the concept about light. After we find the information of light. We have concluded that it is specifically to research about time and period.
@@ -25,6 +26,7 @@ Function
 
 
 We use all information to present the installation art, which relate with Life such as emotion and time.
+
 
 ## Link to Prototype
 https://www.youtube.com/watch?v=rn7UTz9lUaU
