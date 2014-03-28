@@ -23,11 +23,7 @@
 ##Software
 
  Getting the mood I interpret the selected folder or send the array. The folder is  will be checked again  with condition. If it runs across the music of the song, the midi data is sent out to retrieve the code to play sound and light.
- 
-https://www.youtube.com/watch?v=Fb8107XZ8oI#t=59
- 
- 
- a Midi file is fed into Linux’s ALSA midi sequencer service, destined to be played on a particular port.  The sequencer then broadcasts accurately timed midi events to all programs subscribed to said port.  One of those programs is Timidity, which is a free midi synthesizer that will take care of playing the sound.  The other is a simple C program that I wrote to  control the GPIO pins based on midi events.  Each GPIO pin controls a solid state relay, which ultimately toggles the main electricity  going to each bank of  lights.
+
 
 ![Overview](/project_images/soft.png "Overview")
 
