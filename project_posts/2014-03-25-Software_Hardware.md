@@ -1,4 +1,3 @@
-
 -Software
 
 1.Input emotion
