@@ -1,15 +1,4 @@
 
-##Overview
-
-![Overview](/ "Overview")
-//coming..
-
-
-##Operation
-
-![Overview](/project_images/2014-03-28 13.41.31.jpg "Overview")
-
-
 -Software
 
 1.Input emotion
