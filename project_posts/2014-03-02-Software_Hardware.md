@@ -1,4 +1,3 @@
-
 -Software
 
 1.Input emotion
@@ -13,7 +12,7 @@
 
 2.LED controller (adrdunio)
 
-3.Smook controller
+3.Smoker controller
 
 
 ##Overview
