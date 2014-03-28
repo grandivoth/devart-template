@@ -80,4 +80,4 @@ int main()
 -Raspberry Pi to controll LED
 https://www.youtube.com/watch?v=Q6U2Bi5NK6Q#t=19
 
-credit Kevin Darrah
+Credit Kevin Darrah
