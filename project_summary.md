@@ -115,22 +115,21 @@ Test6
 
 
 
+
 -Software
 
-1.Input emotion
+1. Input user's emotional
 
-2.Open sound in folder which follow to emotion
+2. Sound in folder will open depends on user's emotional
 
-
-
+                                                                                                      
 -Hardware
 
-
-1.LED controller (base to sound)
+1.LED controller (based to sound)
 
 2.diffuser+aroma controller
 
-3.water fall comtroller( on /off)
+3.water fall controller( on /off)
 
 
 
